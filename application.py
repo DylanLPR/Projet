@@ -15,7 +15,7 @@ st.set_page_config(
 )
 
 # Chargement des données
-df = pd.read_csv("H:/SD3/SAE 601/Projet/Projet/ds_salaries.csv")
+df = pd.read_csv("ds_salaries.csv")
 
 # Style CSS léger pour un rendu professionnel
 st.markdown("""
